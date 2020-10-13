@@ -7,7 +7,7 @@ package testeambienteengen;
 
 /**
  *
- * @author thiago
+ * @author Danillo
  */
 public class TesteAmbienteEngen {
 
@@ -15,7 +15,7 @@ public class TesteAmbienteEngen {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
         
           TesteClasse2 tc = new TesteClasse2();
                
