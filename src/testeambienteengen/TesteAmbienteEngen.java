@@ -17,7 +17,10 @@ public class TesteAmbienteEngen {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        System.out.println("Hello world --Thiago");
+          TesteClasse2 tc = new TesteClasse2();
+               
+            tc.printaMensagem();
+
         
     }
     
